@@ -1,0 +1,6 @@
+{
+  "name": "INNOVA.GLOBAL",
+  "description": "Smart Digital Network Platform — CONNECT • LEARN • GROW",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
